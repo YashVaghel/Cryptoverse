@@ -1,0 +1,501 @@
+[{
+        "Volume": 20442098109,
+        "_id": "62c3c0bd2a0e59ee18a9cb1e",
+        "iconUrl": "https://cdn.coinranking.com/bOabBYkcX/bitcoin_btc.svg",
+        "marketCap": 385735353719,
+        "name": "Bitcoin",
+        "rank": 1,
+        "uid": 0,
+        "uuid": "Qwsogvtv82FCd"
+    },
+    {
+        "Volume": 13961561523,
+        "_id": "62c3c0bd2a0e59ee18a9cb1f",
+        "iconUrl": "https://cdn.coinranking.com/rk4RKHOuW/eth.svg",
+        "marketCap": 139268474321,
+        "name": "Ethereum",
+        "rank": 2,
+        "uid": 1,
+        "uuid": "razxDUgYGNAdQ"
+    },
+    {
+        "Volume": 53512016951,
+        "_id": "62c3c0bd2a0e59ee18a9cb20",
+        "iconUrl": "https://cdn.coinranking.com/mgHqwlCLj/usdt.svg",
+        "marketCap": 66627684032,
+        "name": "Tether USD",
+        "rank": 3,
+        "uid": 2,
+        "uuid": "HIVsRcGKkPFtW"
+    },
+    {
+        "Volume": 4591898883,
+        "_id": "62c3c0bd2a0e59ee18a9cb21",
+        "iconUrl": "https://cdn.coinranking.com/jkDf8sQbY/usdc.svg",
+        "marketCap": 55985182280,
+        "name": "USDC",
+        "rank": 4,
+        "uid": 3,
+        "uuid": "aKzUVe4Hh_CON"
+    },
+    {
+        "Volume": 1028571183,
+        "_id": "62c3c0bd2a0e59ee18a9cb22",
+        "iconUrl": "https://cdn.coinranking.com/B1N19L_dZ/bnb.svg",
+        "marketCap": 34188278463,
+        "name": "Binance Coin",
+        "rank": 5,
+        "uid": 4,
+        "uuid": "WcwrkfNI4FUAe"
+    },
+    {
+        "Volume": 4427203892,
+        "_id": "62c3c0bd2a0e59ee18a9cb23",
+        "iconUrl": "https://cdn.coinranking.com/6SJHRfClq/busd.svg",
+        "marketCap": 17850070197,
+        "name": "Binance USD",
+        "rank": 6,
+        "uid": 5,
+        "uuid": "vSo2fu9iE1s0Y"
+    },
+    {
+        "Volume": 849778879,
+        "_id": "62c3c0be2a0e59ee18a9cb24",
+        "iconUrl": "https://cdn.coinranking.com/ryY28nXhW/ada.svg",
+        "marketCap": 14509357775,
+        "name": "Cardano",
+        "rank": 7,
+        "uid": 6,
+        "uuid": "qzawljRxB5bYu"
+    },
+    {
+        "Volume": 1016555209,
+        "_id": "62c3c0be2a0e59ee18a9cb25",
+        "iconUrl": "https://cdn.coinranking.com/B1oPuTyfX/xrp.svg",
+        "marketCap": 14438758837,
+        "name": "XRP",
+        "rank": 8,
+        "uid": 7,
+        "uuid": "-l8Mn2pVlRs-p"
+    },
+    {
+        "Volume": 1085785410,
+        "_id": "62c3c0be2a0e59ee18a9cb26",
+        "iconUrl": "https://cdn.coinranking.com/yvUG4Qex5/solana.svg",
+        "marketCap": 12269406097,
+        "name": "Solana",
+        "rank": 9,
+        "uid": 8,
+        "uuid": "zNZHO_Sjf"
+    },
+    {
+        "Volume": 1870426,
+        "_id": "62c3c0be2a0e59ee18a9cb27",
+        "iconUrl": "https://cdn.coinranking.com/iseN4Am58/hex-vector.svg",
+        "marketCap": 9814768953,
+        "name": "HEX",
+        "rank": 10,
+        "uid": 9,
+        "uuid": "9K7m6ufraZ6gh"
+    },
+    {
+        "Volume": 360423053,
+        "_id": "62c3c0be2a0e59ee18a9cb28",
+        "iconUrl": "https://cdn.coinranking.com/H1arXIuOZ/doge.svg",
+        "marketCap": 9292269745,
+        "name": "Dogecoin",
+        "rank": 11,
+        "uid": 10,
+        "uuid": "a91GCGd_u96cF"
+    },
+    {
+        "Volume": 488689271,
+        "_id": "62c3c0be2a0e59ee18a9cb29",
+        "iconUrl": "https://cdn.coinranking.com/RsljYqnbu/polkadot.svg",
+        "marketCap": 7710949138,
+        "name": "Polkadot",
+        "rank": 12,
+        "uid": 11,
+        "uuid": "25W7FG7om"
+    },
+    {
+        "Volume": 529757414,
+        "_id": "62c3c0be2a0e59ee18a9cb2a",
+        "iconUrl": "https://cdn.coinranking.com/behejNqQs/trx.svg",
+        "marketCap": 6998280585,
+        "name": "TRON",
+        "rank": 13,
+        "uid": 12,
+        "uuid": "qUhEFk1I61atv"
+    },
+    {
+        "Volume": 81047510,
+        "_id": "62c3c0be2a0e59ee18a9cb2b",
+        "iconUrl": "https://cdn.coinranking.com/mAZ_7LwOE/mutli-collateral-dai.svg",
+        "marketCap": 6454010590,
+        "name": "Dai",
+        "rank": 14,
+        "uid": 13,
+        "uuid": "MoTuySvg7"
+    },
+    {
+        "Volume": 393574687,
+        "_id": "62c3c0be2a0e59ee18a9cb2c",
+        "iconUrl": "https://cdn.coinranking.com/9NOP9tOem/chainlink.svg",
+        "marketCap": 6446185727,
+        "name": "Chainlink",
+        "rank": 15,
+        "uid": 14,
+        "uuid": "VLqpJwogdhHNb"
+    },
+    {
+        "Volume": 391471969,
+        "_id": "62c3c0be2a0e59ee18a9cb2d",
+        "iconUrl": "https://cdn.coinranking.com/D69LfI-tm/shib.png",
+        "marketCap": 6357807536,
+        "name": "SHIBA INU",
+        "rank": 16,
+        "uid": 15,
+        "uuid": "xz24e0BjL"
+    },
+    {
+        "Volume": 4291423,
+        "_id": "62c3c0be2a0e59ee18a9cb2e",
+        "iconUrl": "https://cdn.coinranking.com/12EKqY08r/leo.svg",
+        "marketCap": 5665221052,
+        "name": "LEO",
+        "rank": 17,
+        "uid": 16,
+        "uuid": "mqtUpyBxu8O8"
+    },
+    {
+        "Volume": 14760943,
+        "_id": "62c3c0be2a0e59ee18a9cb2f",
+        "iconUrl": "https://cdn.coinranking.com/o3-8cvCHu/wbtc[1].svg",
+        "marketCap": 5313104125,
+        "name": "Wrapped BTC",
+        "rank": 18,
+        "uid": 17,
+        "uuid": "x4WXHge-vvFY"
+    },
+    {
+        "Volume": 582494,
+        "_id": "62c3c0be2a0e59ee18a9cb30",
+        "iconUrl": "https://cdn.coinranking.com/UJ-dQdgYY/8085.png",
+        "marketCap": 4712257450,
+        "name": "Lido Staked Ether",
+        "rank": 19,
+        "uid": 18,
+        "uuid": "VINVMYf0u"
+    },
+    {
+        "Volume": 2436341,
+        "_id": "62c3c0be2a0e59ee18a9cb31",
+        "iconUrl": "https://cdn.coinranking.com/0ClFW1IpO/bitdao.png",
+        "marketCap": 4405021265,
+        "name": "BitDAO",
+        "rank": 20,
+        "uid": 19,
+        "uuid": "N2IgQ9Xme"
+    },
+    {
+        "Volume": 550527411,
+        "_id": "62c3c0be2a0e59ee18a9cb32",
+        "iconUrl": "https://cdn.coinranking.com/HAf8rW3kx/polygon-matic-rebrand.png",
+        "marketCap": 4167546446,
+        "name": "Polygon",
+        "rank": 21,
+        "uid": 20,
+        "uuid": "uW2tk-ILY0ii"
+    },
+    {
+        "Volume": 106971943,
+        "_id": "62c3c0be2a0e59ee18a9cb33",
+        "iconUrl": "https://cdn.coinranking.com/1heSvUgtl/uniswap-v2.svg?size=48x48",
+        "marketCap": 3956877558,
+        "name": "Uniswap",
+        "rank": 22,
+        "uid": 21,
+        "uuid": "_H5FVG9iW"
+    },
+    {
+        "Volume": 488893749,
+        "_id": "62c3c0be2a0e59ee18a9cb34",
+        "iconUrl": "https://cdn.coinranking.com/S0C6Cw2-w/avax-avalanche.png",
+        "marketCap": 3920372058,
+        "name": "Avalanche",
+        "rank": 23,
+        "uid": 22,
+        "uuid": "dvUj0CzDZ"
+    },
+    {
+        "Volume": 463373655,
+        "_id": "62c3c0be2a0e59ee18a9cb35",
+        "iconUrl": "https://cdn.coinranking.com/BUvPxmc9o/ltcnew.svg",
+        "marketCap": 3687144516,
+        "name": "Litecoin",
+        "rank": 24,
+        "uid": 23,
+        "uuid": "D7B1x_ks7WhV5"
+    },
+    {
+        "Volume": 75543805,
+        "_id": "62c3c0be2a0e59ee18a9cb36",
+        "iconUrl": "https://cdn.coinranking.com/WyBm4_EzM/ftx-exchange.svg",
+        "marketCap": 3515576934,
+        "name": "FTX Token",
+        "rank": 25,
+        "uid": 24,
+        "uuid": "NfeOYfNcl"
+    },
+    {
+        "Volume": 9107207,
+        "_id": "62c3c0be2a0e59ee18a9cb37",
+        "iconUrl": "https://cdn.coinranking.com/xcZdYtX6E/okx.png",
+        "marketCap": 3284557845,
+        "name": "OKB",
+        "rank": 26,
+        "uid": 25,
+        "uuid": "PDKcptVnzJTmN"
+    },
+    {
+        "Volume": 18240084,
+        "_id": "62c3c0be2a0e59ee18a9cb38",
+        "iconUrl": "https://cdn.coinranking.com/2o91jm73M/cro.svg",
+        "marketCap": 2686647531,
+        "name": "Cronos",
+        "rank": 27,
+        "uid": 26,
+        "uuid": "65PHZTpmE55b"
+    },
+    {
+        "Volume": 1833068,
+        "_id": "62c3c0be2a0e59ee18a9cb39",
+        "iconUrl": "https://cdn.coinranking.com/1N84MQsoO/7548.png",
+        "marketCap": 2635632219,
+        "name": "WEMIX TOKEN",
+        "rank": 28,
+        "uid": 27,
+        "uuid": "08CsQa-Ov"
+    },
+    {
+        "Volume": 465402668,
+        "_id": "62c3c0be2a0e59ee18a9cb3a",
+        "iconUrl": "https://cdn.coinranking.com/HJzHboruM/atom.svg",
+        "marketCap": 2603200131,
+        "name": "Cosmos",
+        "rank": 29,
+        "uid": 28,
+        "uuid": "Knsels4_Ol-Ny"
+    },
+    {
+        "Volume": 87905853,
+        "_id": "62c3c0be2a0e59ee18a9cb3b",
+        "iconUrl": "https://cdn.coinranking.com/Syz-oSd_Z/xmr.svg",
+        "marketCap": 2249032770,
+        "name": "Monero",
+        "rank": 30,
+        "uid": 29,
+        "uuid": "3mVx2FX_iJFp5"
+    },
+    {
+        "Volume": 74572011,
+        "_id": "62c3c0be2a0e59ee18a9cb3c",
+        "iconUrl": "https://cdn.coinranking.com/lzbmCkUGB/algo.svg",
+        "marketCap": 2236018606,
+        "name": "Algorand",
+        "rank": 31,
+        "uid": 30,
+        "uuid": "TpHE2IShQw-sJ"
+    },
+    {
+        "Volume": 131740937,
+        "_id": "62c3c0be2a0e59ee18a9cb3d",
+        "iconUrl": "https://cdn.coinranking.com/78CxK1xsp/Stellar_symbol_black_RGB.svg",
+        "marketCap": 2232707057,
+        "name": "Stellar",
+        "rank": 32,
+        "uid": 31,
+        "uuid": "f3iaFeCKEmkaZ"
+    },
+    {
+        "Volume": 171183122,
+        "_id": "62c3c0be2a0e59ee18a9cb3e",
+        "iconUrl": "https://cdn.coinranking.com/Cth83dCnl/near.png",
+        "marketCap": 2134475728,
+        "name": "NEAR Protocol",
+        "rank": 33,
+        "uid": 32,
+        "uuid": "DCrsaMv68"
+    },
+    {
+        "Volume": 263005957,
+        "_id": "62c3c0be2a0e59ee18a9cb3f",
+        "iconUrl": "https://cdn.coinranking.com/By8ziihX7/bch.svg",
+        "marketCap": 2123360400,
+        "name": "Bitcoin Cash",
+        "rank": 34,
+        "uid": 33,
+        "uuid": "ZlZpzOJo43mIo"
+    },
+    {
+        "Volume": 476851151,
+        "_id": "62c3c0be2a0e59ee18a9cb40",
+        "iconUrl": "https://cdn.coinranking.com/JZbW2UkAw/usdi.png",
+        "marketCap": 2000520513,
+        "name": "USDi0",
+        "rank": 35,
+        "uid": 34,
+        "uuid": "mBiziipm"
+    },
+    {
+        "Volume": 177185069,
+        "_id": "62c3c0be2a0e59ee18a9cb41",
+        "iconUrl": "https://cdn.coinranking.com/ph_svUzXs/decentraland(1).svg",
+        "marketCap": 1967485162,
+        "name": "Decentraland",
+        "rank": 36,
+        "uid": 35,
+        "uuid": "tEf7-dnwV3BXS"
+    },
+    {
+        "Volume": 197284066,
+        "_id": "62c3c0bf2a0e59ee18a9cb42",
+        "iconUrl": "https://cdn.coinranking.com/rJfyor__W/etc.svg",
+        "marketCap": 1778705764,
+        "name": "Ethereum Classic",
+        "rank": 37,
+        "uid": 36,
+        "uuid": "hnfQfsYfeIGUQ"
+    },
+    {
+        "Volume": 102406514,
+        "_id": "62c3c0bf2a0e59ee18a9cb43",
+        "iconUrl": "https://cdn.coinranking.com/B1_TDu9Dm/VEN.svg",
+        "marketCap": 1552103258,
+        "name": "VeChain",
+        "rank": 38,
+        "uid": 37,
+        "uuid": "FEbS54wxo4oIl"
+    },
+    {
+        "Volume": 165624321,
+        "_id": "62c3c0bf2a0e59ee18a9cb44",
+        "iconUrl": "https://cdn.coinranking.com/kd_vwOcnI/sandbox.png",
+        "marketCap": 1501647409,
+        "name": "The Sandbox",
+        "rank": 39,
+        "uid": 38,
+        "uuid": "pxtKbG5rg"
+    },
+    {
+        "Volume": 30905423,
+        "_id": "62c3c0bf2a0e59ee18a9cb45",
+        "iconUrl": "https://cdn.coinranking.com/naRGT2Y_X/10603.png",
+        "marketCap": 1432795636,
+        "name": "Immutable X",
+        "rank": 40,
+        "uid": 39,
+        "uuid": "Z96jIvLU7"
+    },
+    {
+        "Volume": 58345809,
+        "_id": "62c3c0bf2a0e59ee18a9cb46",
+        "iconUrl": "https://cdn.coinranking.com/HkLUdilQ7/xtz.svg",
+        "marketCap": 1380995922,
+        "name": "Tezos",
+        "rank": 41,
+        "uid": 40,
+        "uuid": "fsIbGOEJWbzxG"
+    },
+    {
+        "Volume": 28887300,
+        "_id": "62c3c0bf2a0e59ee18a9cb47",
+        "iconUrl": "https://cdn.coinranking.com/BpVNCX-NM/frax.png",
+        "marketCap": 1365298492,
+        "name": "Frax",
+        "rank": 42,
+        "uid": 41,
+        "uuid": "KfWtaeV1W"
+    },
+    {
+        "Volume": 58109212,
+        "_id": "62c3c0bf2a0e59ee18a9cb48",
+        "iconUrl": "https://cdn.coinranking.com/1uJ_RVrmC/dfinity-icp.png",
+        "marketCap": 1359977967,
+        "name": "Internet Computer (DFINITY)",
+        "rank": 43,
+        "uid": 42,
+        "uuid": "aMNLwaUbY"
+    },
+    {
+        "Volume": 52604285,
+        "_id": "62c3c0bf2a0e59ee18a9cb49",
+        "iconUrl": "https://cdn.coinranking.com/HJHg2k9Lf/theta.svg",
+        "marketCap": 1261169179,
+        "name": "Theta Token",
+        "rank": 44,
+        "uid": 43,
+        "uuid": "B42IRxNtoYmwK"
+    },
+    {
+        "Volume": 35799041,
+        "_id": "62c3c0bf2a0e59ee18a9cb4a",
+        "iconUrl": "https://cdn.coinranking.com/aRtgdw7bQ/pancakeswap-cake-logo.png",
+        "marketCap": 1229371003,
+        "name": "PancakeSwap",
+        "rank": 45,
+        "uid": 44,
+        "uuid": "ncYFcP709"
+    },
+    {
+        "Volume": 18989392,
+        "_id": "62c3c0bf2a0e59ee18a9cb4b",
+        "iconUrl": "https://cdn.coinranking.com/dSCnSLilQ/hedera.svg",
+        "marketCap": 1193311638,
+        "name": "Hedera HashGraph",
+        "rank": 46,
+        "uid": 45,
+        "uuid": "jad286TjB"
+    },
+    {
+        "Volume": 47666730,
+        "_id": "62c3c0bf2a0e59ee18a9cb4c",
+        "iconUrl": "https://cdn.coinranking.com/X62ruAuZQ/Elrond.svg",
+        "marketCap": 1116549103,
+        "name": "Elrond",
+        "rank": 47,
+        "uid": 46,
+        "uuid": "omwkOTglq"
+    },
+    {
+        "Volume": 1527430,
+        "_id": "62c3c0bf2a0e59ee18a9cb4d",
+        "iconUrl": "https://cdn.coinranking.com/TQFMWwtyn/senso.svg",
+        "marketCap": 1072220758,
+        "name": "SENSO",
+        "rank": 48,
+        "uid": 47,
+        "uuid": "ZO4D7EBy3"
+    },
+    {
+        "Volume": 86959637,
+        "_id": "62c3c0bf2a0e59ee18a9cb4e",
+        "iconUrl": "https://cdn.coinranking.com/388ehh6kq/bitcoin-sv-1.svg",
+        "marketCap": 1055427447,
+        "name": "Bitcoin SV",
+        "rank": 49,
+        "uid": 48,
+        "uuid": "VcMY11NONHSA0"
+    },
+    {
+        "Volume": 42652259,
+        "_id": "62c3c0bf2a0e59ee18a9cb4f",
+        "iconUrl": "https://cdn.coinranking.com/KUd2bJXdn/3330.png",
+        "marketCap": 1017037485,
+        "name": "Pax Dollar",
+        "rank": 50,
+        "uid": 49,
+        "uuid": "JCKLgWPAF"
+    }
+]
